@@ -2,6 +2,9 @@
 # 🧠 Student Dropout Classification  
 **Universidad de la Costa – Data Mining**  
 **Curso:** MINERIA DE DATOS 
+**Integrantes del equipo**
+Hernando Luiz Calvo Ochoa
+Carlos Antonio Ardila Ruiz
 **Actividad 2 – Entrenamiento de Modelos (José Escorcia-Gutiérrez, Ph.D.)**  
 
 ## Descripción del problema  
@@ -64,10 +67,6 @@ Se sugiere explorar mejoras como:
    Balanceo de clases (SMOTE o ponderación de clase).  
    Selección de variables relevantes.  
    Probar modelos más complejos (Random Forest, XGBoost).  
-
- Integrantes del equipo  
-Hernando Luiz Calvo Ochoa
-Carlos Antonio Ardila Ruiz 
 
 ## Archivos incluidos  
 student_dropout_activity_corrected.ipynb` → Notebook con todo el proceso.  
