@@ -1,5 +1,5 @@
 # actividad-2
-# 🧠 Student Dropout Classification  
+# Student Dropout Classification  
 **Universidad de la Costa – Data Mining**  
 **Curso:** MINERIA DE DATOS 
 **Integrantes del equipo**
